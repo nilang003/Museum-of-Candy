@@ -19,3 +19,7 @@ body{
 #mainNavbar .nav-link:hover{
     color:#ea1c2c;
 }
+
+#heading span{
+    color: #ea1c2c;
+}
