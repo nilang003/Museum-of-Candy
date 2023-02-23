@@ -23,3 +23,13 @@ body{
 #heading span{
     color: #ea1c2c;
 }
+
+.s2 h2{
+    color: #ea1c2c;
+    font-size: 2.5rem;
+    font-weight: 100;
+}
+
+.s2 p{
+    color: #ea1c2c;
+}
